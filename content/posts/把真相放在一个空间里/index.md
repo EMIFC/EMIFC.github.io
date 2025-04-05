@@ -1,6 +1,6 @@
 ---
 title: "把真相放在一个空间里"
-images: ["images/IMG_8894.jpg"]
+images: ["images/blue.png"]
 layout: "plain"
 date: 2025-01-04T12:34:56+00:00
 draft: false
