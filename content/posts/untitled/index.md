@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-images: ["images/IMG_8894.jpg"]
+images: ["images/fish.png"]
 layout: "plain"
 date: 2025-05-04T12:34:56+00:00
 draft: false
